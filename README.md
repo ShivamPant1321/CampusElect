@@ -45,7 +45,6 @@ git clone https://github.com/ShivamPant1321/CampusElect
 
 2. Install dependencies:
 ```bash
-cd college-election-system
 npm install
 ```
 
